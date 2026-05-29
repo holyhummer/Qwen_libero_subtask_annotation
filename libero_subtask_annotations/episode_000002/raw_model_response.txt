@@ -1,0 +1,42 @@
+{
+  "subtasks": [
+    {
+      "subtask_id": "S1",
+      "text": "approach the yellow and white mug"
+    },
+    {
+      "subtask_id": "S2",
+      "text": "grasp the yellow and white mug"
+    },
+    {
+      "subtask_id": "S3",
+      "text": "move and place the yellow and white mug in the microwave"
+    },
+    {
+      "subtask_id": "S4",
+      "text": "move the gripper to the yellow and white mug handle or closing area"
+    },
+    {
+      "subtask_id": "S5",
+      "text": "close the yellow and white mug"
+    }
+  ],
+  "keyframe_labels": [
+    {"frame": 0, "subtask_id": "S1"},
+    {"frame": 50, "subtask_id": "S1"},
+    {"frame": 75, "subtask_id": "S1"},
+    {"frame": 100, "subtask_id": "S2"},
+    {"frame": 105, "subtask_id": "S2"},
+    {"frame": 108, "subtask_id": "S2"},
+    {"frame": 110, "subtask_id": "S3"},
+    {"frame": 169, "subtask_id": "S3"},
+    {"frame": 198, "subtask_id": "S3"},
+    {"frame": 228, "subtask_id": "S4"},
+    {"frame": 272, "subtask_id": "S4"},
+    {"frame": 293, "subtask_id": "S4"},
+    {"frame": 315, "subtask_id": "S5"},
+    {"frame": 330, "subtask_id": "S5"},
+    {"frame": 337, "subtask_id": "S5"},
+    {"frame": 344, "subtask_id": "S5"}
+  ]
+}
